@@ -14,7 +14,7 @@ ul, ol {
 }
 
 .menu li a{
-    background-color: rgb(30, 101, 233);
+    background-color: rgb(77, 2, 2);
     color: #ffffff;
     text-decoration: none;
     padding: 10px 15px;
@@ -22,7 +22,7 @@ ul, ol {
 }
 
 .menu li a:hover{
-    background-color: #434343;
+    background-color: #b80808;
 }
 
 .menu > li {
